@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Audio Video Player</string>
+    <string name="instruction">Play - Starts the music\nPause - Stops the music temporarily, play will resume it\nStop - It will remove the song from the player so restart the app to play again.</string>
+</resources>
